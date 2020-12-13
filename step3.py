@@ -7,3 +7,4 @@ for _ in range(3):
     cube[4].append(['G','G','G']) # 오른쪽면
     cube[5].append(['y','y','y']) # 후면
 
+# ?
